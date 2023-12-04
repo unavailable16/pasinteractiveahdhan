@@ -288,8 +288,7 @@ footer {
 
   /* Style for Scroll to Top button */
 #scrollToTopButton {
-   
-    position: fixed;
+    position: relative;
     bottom: 20px;
     right: 20px;
     font-size: 24px;
@@ -297,13 +296,7 @@ footer {
     height: 40px;
     border: none;
     border-radius: 5px;
-    background-color: rgba(56, 24, 24, 0.7);
+    background-color: #dc3545;
     color: white;
     cursor: pointer;
-    z-index: 999;
   }
-  
-  #scrollToTopButton:hover {
-    background-color: rgba(56, 24, 24, 0.9);
-  }
-  
