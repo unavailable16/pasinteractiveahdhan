@@ -204,7 +204,7 @@ main section {
   .service img {
     width: 100%;
     border-radius: 10px;
-    height: auto;
+    height: 100%;
     display: block;
     transition: filter 0.3s ease, transform 0.3s ease; /* Adding transition for glow and zoom effects */
   }
