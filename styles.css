@@ -288,7 +288,7 @@ footer {
 
   /* Style for Scroll to Top button */
 #scrollToTopButton {
-    display: none;
+   
     position: fixed;
     bottom: 20px;
     right: 20px;
